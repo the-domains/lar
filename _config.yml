@@ -2,6 +2,7 @@ name: Large File Sharing
 favicon: null
 layout_spectrum: 0.22215816983953118
 typography_spectrum: 0.6134395617991686
+title: Large File Sharing
 cta:
   domain: null
   bucket: null
