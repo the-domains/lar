@@ -1,7 +1,7 @@
 name: Large File Sharing
 favicon: null
-layout_spectrum: 0.22215816983953118
-typography_spectrum: 0.6134395617991686
+layout_spectrum: 0.3301
+typography_spectrum: 0.47902
 title: Large File Sharing
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.2732099862769246
+  brandStrength: 0.1875
   lightness: 0.12016107141971588
   saturation: 0.3382877823896706
   rhythmicContrast: 0.3540431265719235
