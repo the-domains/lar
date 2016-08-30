@@ -1,20 +1,4 @@
-name: Large File Sharing
-favicon: null
-layout_spectrum: 0.59487
 typography_spectrum: 0.47902
-title: Large File Sharing
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: pub-1427543002106375
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0f0f0f'
@@ -26,4 +10,21 @@ color:
   lightness: 0
   saturation: 0.875
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.59487
+analytics:
+  google: pub-1427543002106375
+  facebook: null
+  twitter: null
+name: Large File Sharing
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Large File Sharing
+description: get your sharing on
 purpose: []
